@@ -29,13 +29,11 @@
 			<artifactId>jspwiki-plugin</artifactId>
 			<version>2.12.0</version>
 		</dependency>
-		<!-- 
 		<dependency>
 			<groupId>de.hsadmin</groupId>
 			<artifactId>hsadmin-jspwiki-plugin</artifactId>
-			<version>2.11.3</version>
+			<version>2.12.0</version>
 		</dependency>
-	         -->	
 	</dependencies>
 	<build>
 		<plugins>
